@@ -1,0 +1,49 @@
+body{
+    font-family: 'Relaway', sans-serif;
+    background-image: url('gambar/yasin.jpeg');
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.baner{
+    background-color: rgb(25, 0, 255) !important;
+}
+
+.baner .navbar {
+    margin-top: 5px;
+}
+
+.baner .navbar-brand {
+    color: rgb(46, 165, 42);
+    font-size: 2em;
+    font-weight: 700;
+    margin-left: 10%;
+}
+
+.baner .nav{
+    margin-right: 10%;
+}
+
+.baner .nav li a {
+    font-size: 1em;
+    color: rgb(81, 165, 42);
+    padding: 20px 20px;
+}
+
+.baner .nav li a:hover {
+    background-color: chartreuse;
+    color: rgba(238, 241, 248, 0.493), 0.651);
+}
+
+.info {
+    margin-top: 25%;
+    color: rgba(211, 2, 2, 0.801);
+}
+
+.info .text-center{
+    font-weight: 900;
+    border: 2px solid;
+    font-family: sans-serif;
+}
